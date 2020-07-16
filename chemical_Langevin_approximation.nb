@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    151574,       4062]
-NotebookOptionsPosition[    147790,       4006]
-NotebookOutlinePosition[    148207,       4022]
-CellTagsIndexPosition[    148164,       4019]
+NotebookDataLength[    151473,       4053]
+NotebookOptionsPosition[    147689,       3997]
+NotebookOutlinePosition[    148106,       4013]
+CellTagsIndexPosition[    148063,       4010]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2478,9 +2478,7 @@ Cell[BoxData[
    FontSize->18], 
   StyleBox[
    RowBox[{
-    RowBox[{
-     StyleBox[
-      RowBox[{"T", "he"}]], " ", "coefficients", " ", 
+    RowBox[{"The", " ", "coefficients", " ", 
      FormBox[
       SubscriptBox[
        StyleBox["N", "TI"], 
@@ -2563,7 +2561,6 @@ Cell[BoxData[{
            RowBox[{"(", 
             RowBox[{
              RowBox[{"SsB", " ", "\[Rho]b"}], "+", "\[Rho]m"}], ")"}]}], "+", 
-          
           RowBox[{"P", " ", "\[Rho]b", " ", "\[Rho]r"}]}], ")"}], "2"]}], "+", 
       RowBox[{
        RowBox[{"(", 
@@ -2591,7 +2588,6 @@ Cell[BoxData[{
            RowBox[{"(", 
             RowBox[{
              RowBox[{"SsB", " ", "\[Rho]b"}], "+", "\[Rho]m"}], ")"}]}], "+", 
-          
           RowBox[{"kb", " ", "KB", " ", 
            RowBox[{"(", 
             RowBox[{
@@ -2680,7 +2676,6 @@ Cell[BoxData[{
           SuperscriptBox["KB", "2"], " ", 
           SuperscriptBox["krr", "2"]}], "+", 
          RowBox[{"2", " ", "KB", " ", "krr", " ", "P", " ", "\[Rho]b"}], "+", 
-         
          SuperscriptBox[
           RowBox[{"(", 
            RowBox[{
@@ -3348,7 +3343,6 @@ Cell[BoxData[{
            RowBox[{"(", 
             RowBox[{
              RowBox[{"SsB", " ", "\[Rho]b"}], "+", "\[Rho]m"}], ")"}]}], "+", 
-          
           RowBox[{"kr", " ", 
            RowBox[{"(", 
             RowBox[{
@@ -3455,7 +3449,6 @@ Cell[BoxData[{
         RowBox[{"krr", " ", "P", " ", "SsB", " ", "\[Rho]b", " ", "\[Rho]r"}],
          "+", 
         RowBox[{"P", " ", "\[Gamma]k", " ", "\[Rho]b", " ", "\[Rho]r"}], "+", 
-        
         RowBox[{"kb", " ", 
          RowBox[{"(", 
           RowBox[{
@@ -3605,7 +3598,6 @@ Cell[BoxData[{
         RowBox[{"krr", " ", "P", " ", "SsB", " ", "\[Rho]b", " ", "\[Rho]r"}],
          "+", 
         RowBox[{"P", " ", "\[Gamma]k", " ", "\[Rho]b", " ", "\[Rho]r"}], "+", 
-        
         RowBox[{"kb", " ", 
          RowBox[{"(", 
           RowBox[{
@@ -3688,7 +3680,6 @@ Cell[BoxData[{
      RowBox[{"2", " ", "SsB", " ", "\[Rho]b", " ", "\[Rho]m"}], "+", 
      SuperscriptBox["\[Rho]m", "2"], "-", 
      RowBox[{"2", " ", "P", " ", "\[Rho]b", " ", "\[Rho]r"}]}], ")"}]}], ";", 
-  
   RowBox[{"Dc8", "=", "1"}], ";", 
   RowBox[{
    RowBox[{"Rho2", "[", "M_", "]"}], ":=", 
@@ -4005,7 +3996,7 @@ Cell[BoxData[{
  CellLabel->"In[41]:=",ExpressionUUID->"5c255b47-d030-4a0f-8f9e-fe3f9da365f7"]
 },
 WindowSize->{1278, 1348},
-WindowMargins->{{Automatic, 522}, {Automatic, 112}},
+WindowMargins->{{Automatic, 531}, {Automatic, 135}},
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
 StyleDefinitions->FrontEnd`FileName[{"Report"}, "StandardReport.nb", 
   CharacterEncoding -> "UTF-8"]
@@ -4057,13 +4048,13 @@ Cell[62413, 1779, 11413, 272, 267, "Input",ExpressionUUID->"319815cc-8f4b-4d84-b
 Cell[73829, 2053, 15189, 371, 356, "Input",ExpressionUUID->"ddbedb5f-ccb1-42a4-b574-475e5d807e83"],
 Cell[89021, 2426, 998, 28, 78, "Input",ExpressionUUID->"4afc3068-9be1-4174-bd49-52151a478cb7"],
 Cell[90022, 2456, 672, 16, 39, "Input",ExpressionUUID->"54e1ebbf-5635-41c6-ae84-3e33887e0cb1"],
-Cell[90697, 2474, 1809, 62, 68, "Input",ExpressionUUID->"3430ad4f-1dc1-482a-b79e-0d223e4f259f"],
-Cell[92509, 2538, 43466, 1162, 1114, "Input",ExpressionUUID->"54e17fd4-9f62-41fa-b298-dabfd2a338af"],
-Cell[135978, 3702, 3709, 89, 92, "Input",ExpressionUUID->"8e244754-5669-4a67-a8a3-dee78337fa96"],
-Cell[139690, 3793, 2754, 70, 92, "Input",ExpressionUUID->"2e96e49d-3f72-40e4-8d59-8b3d55bf7e1b"],
-Cell[142447, 3865, 433, 9, 39, "Input",ExpressionUUID->"db565b52-92ce-44e2-b0bc-8814d4cd0289"],
-Cell[142883, 3876, 1350, 27, 59, "Input",ExpressionUUID->"5ea52c6c-3eb9-4b54-a349-27c13a26090d"],
-Cell[144236, 3905, 3550, 99, 144, "Input",ExpressionUUID->"5c255b47-d030-4a0f-8f9e-fe3f9da365f7"]
+Cell[90697, 2474, 1772, 60, 68, "Input",ExpressionUUID->"3430ad4f-1dc1-482a-b79e-0d223e4f259f"],
+Cell[92472, 2536, 43402, 1155, 1114, "Input",ExpressionUUID->"54e17fd4-9f62-41fa-b298-dabfd2a338af"],
+Cell[135877, 3693, 3709, 89, 92, "Input",ExpressionUUID->"8e244754-5669-4a67-a8a3-dee78337fa96"],
+Cell[139589, 3784, 2754, 70, 92, "Input",ExpressionUUID->"2e96e49d-3f72-40e4-8d59-8b3d55bf7e1b"],
+Cell[142346, 3856, 433, 9, 39, "Input",ExpressionUUID->"db565b52-92ce-44e2-b0bc-8814d4cd0289"],
+Cell[142782, 3867, 1350, 27, 59, "Input",ExpressionUUID->"5ea52c6c-3eb9-4b54-a349-27c13a26090d"],
+Cell[144135, 3896, 3550, 99, 144, "Input",ExpressionUUID->"5c255b47-d030-4a0f-8f9e-fe3f9da365f7"]
 }
 ]
 *)
